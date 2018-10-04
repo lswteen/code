@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d49ad2-1737-4db8-a0e7-94bc6b374edb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sunu/code/CodeApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/sunu/code/CodeApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/sunu/code/DiffStreamTests.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -71,41 +71,63 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4738" />
+          <entry key="dummy" value="5" />
+          <entry key="java" value="5530" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4738" />
+          <entry key="JAVA" value="5530" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.43656206">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="51" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -516,6 +538,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/CodeApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/DiffStreamTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java" />
       </list>
     </option>
   </component>
@@ -525,11 +548,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2560" />
-    <option name="y" value="-367" />
-    <option name="width" value="1777" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2528" />
+    <option name="y" value="-351" />
+    <option name="width" value="2522" />
+    <option name="height" value="1388" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -581,7 +604,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538631498814" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538645338771" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -597,7 +620,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MarathonTests.execute">
+  <component name="RunManager" selected="JUnit.PhoneNumberTests.execute">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -606,40 +629,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeApplicationTests.testA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunu.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sunu.code" />
-      <option name="MAIN_CLASS_NAME" value="com.sunu.code.CodeApplicationTests" />
-      <option name="METHOD_NAME" value="testA" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeApplicationTests.testB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunu.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sunu.code" />
-      <option name="MAIN_CLASS_NAME" value="com.sunu.code.CodeApplicationTests" />
-      <option name="METHOD_NAME" value="testB" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -695,6 +684,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneNumberTests.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunu.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunu.code" />
+      <option name="MAIN_CLASS_NAME" value="com.sunu.code.PhoneNumberTests" />
+      <option name="METHOD_NAME" value="execute" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberTests.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunu.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunu.code" />
+      <option name="MAIN_CLASS_NAME" value="com.sunu.code.PhoneNumberTests" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -718,19 +741,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.CodeApplication" />
-      <item itemvalue="JUnit.CodeApplicationTests.testA" />
-      <item itemvalue="JUnit.CodeApplicationTests.testB" />
       <item itemvalue="JUnit.CodeApplicationTests.testCodeA" />
       <item itemvalue="JUnit.DiffStreamTests.execute" />
       <item itemvalue="JUnit.MarathonTests.execute" />
+      <item itemvalue="JUnit.PhoneNumberTests.execute" />
+      <item itemvalue="JUnit.PhoneNumberTests.solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhoneNumberTests.execute" />
+        <item itemvalue="JUnit.PhoneNumberTests.solution" />
         <item itemvalue="JUnit.MarathonTests.execute" />
         <item itemvalue="JUnit.DiffStreamTests.execute" />
         <item itemvalue="JUnit.CodeApplicationTests.testCodeA" />
-        <item itemvalue="JUnit.CodeApplicationTests.testB" />
-        <item itemvalue="JUnit.CodeApplicationTests.testA" />
       </list>
     </recent_temporary>
   </component>
@@ -747,50 +770,50 @@
       <workItem from="1537328615245" duration="4704000" />
       <workItem from="1537492880678" duration="29000" />
       <workItem from="1538451338413" duration="6502000" />
-      <workItem from="1538614843154" duration="7689000" />
+      <workItem from="1538614843154" duration="13010000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 32m 47s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 15h 56m 10s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 33m 47s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 15h 58m 39s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 34m 17s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_solution - 2018.10.04 at 16h 00m 33s.xml">
+      <configuration name="PhoneNumberTests.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 34m 51s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 00m 58s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 35m 28s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 02m 09s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 37m 03s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 06m 07s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffStreamTests_execute - 2018.10.04 at 12h 37m 18s.xml">
-      <configuration name="DiffStreamTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 08m 38s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MarathonTests_execute - 2018.10.04 at 14h 22m 26s.xml">
-      <configuration name="MarathonTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 09m 24s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MarathonTests_execute - 2018.10.04 at 14h 28m 45s.xml">
-      <configuration name="MarathonTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 10m 29s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MarathonTests_execute - 2018.10.04 at 14h 30m 00s.xml">
-      <configuration name="MarathonTests.execute" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 12m 05s.xml">
+      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18924000" />
+    <option name="totallyTimeSpent" value="24245000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-367" width="1777" height="1417" extended-state="0" />
+    <frame x="-2560" y="-367" width="2560" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17175792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.037331216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -800,7 +823,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32981133" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15018868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -823,7 +846,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="UML design tool window" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.19827089" />
+      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.13661636" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info anchor="right" id="Bean Validation" order="12" />
@@ -858,8 +881,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="510">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
