@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d49ad2-1737-4db8-a0e7-94bc6b374edb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sunu/code/IronrodTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/sunu/code/CodeApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/sunu/code/DiffStreamTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/sunu/code/CodeApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/code-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/code-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.sunu.code.CodeApplicationTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.sunu.code.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.sunu.code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.sunu.code.CodeApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/sunu/code/PhoneNumberTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/sunu/code/PhoneNumberTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -62,46 +76,52 @@
     <session id="1278850491">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="16" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="16" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="5530" />
+          <entry key="java" value="6371" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5530" />
+          <entry key="JAVA" value="6371" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43656206">
+    <splitter split-orientation="horizontal" split-proportion="0.3071298">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="51" />
+                <state relative-caret-position="357">
+                  <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="15" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -114,13 +134,22 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/IronrodTests.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+                <state relative-caret-position="199">
+                  <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" selection-start-line="12" selection-end-line="12" />
                 </state>
               </provider>
             </entry>
@@ -539,6 +568,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/DiffStreamTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sunu/code/IronrodTests.java" />
       </list>
     </option>
   </component>
@@ -548,19 +578,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2528" />
-    <option name="y" value="-351" />
-    <option name="width" value="2522" />
-    <option name="height" value="1388" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2560" />
+    <option name="y" value="-367" />
+    <option name="width" value="1796" />
+    <option name="height" value="1241" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -573,6 +603,19 @@
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
@@ -604,7 +647,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538645338771" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539683767667" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -620,7 +663,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PhoneNumberTests.execute">
+  <component name="RunManager" selected="JUnit.IronrodTests.execute">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -633,24 +676,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeApplicationTests.testCodeA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunu.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sunu.code" />
-      <option name="MAIN_CLASS_NAME" value="com.sunu.code.CodeApplicationTests" />
-      <option name="METHOD_NAME" value="testCodeA" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="code [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
     </configuration>
-    <configuration name="DiffStreamTests.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="code [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="IronrodTests.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code_test" />
       <extension name="coverage">
         <pattern>
@@ -659,7 +721,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.sunu.code" />
-      <option name="MAIN_CLASS_NAME" value="com.sunu.code.DiffStreamTests" />
+      <option name="MAIN_CLASS_NAME" value="com.sunu.code.IronrodTests" />
       <option name="METHOD_NAME" value="execute" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -667,7 +729,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarathonTests.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IronrodTests.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code_test" />
       <extension name="coverage">
         <pattern>
@@ -676,8 +738,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.sunu.code" />
-      <option name="MAIN_CLASS_NAME" value="com.sunu.code.MarathonTests" />
-      <option name="METHOD_NAME" value="execute" />
+      <option name="MAIN_CLASS_NAME" value="com.sunu.code.IronrodTests" />
+      <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -695,23 +757,6 @@
       <option name="PACKAGE_NAME" value="com.sunu.code" />
       <option name="MAIN_CLASS_NAME" value="com.sunu.code.PhoneNumberTests" />
       <option name="METHOD_NAME" value="execute" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneNumberTests.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunu.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sunu.code" />
-      <option name="MAIN_CLASS_NAME" value="com.sunu.code.PhoneNumberTests" />
-      <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -741,19 +786,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.CodeApplication" />
-      <item itemvalue="JUnit.CodeApplicationTests.testCodeA" />
-      <item itemvalue="JUnit.DiffStreamTests.execute" />
-      <item itemvalue="JUnit.MarathonTests.execute" />
       <item itemvalue="JUnit.PhoneNumberTests.execute" />
-      <item itemvalue="JUnit.PhoneNumberTests.solution" />
+      <item itemvalue="JUnit.IronrodTests.execute" />
+      <item itemvalue="Gradle.code [clean]" />
+      <item itemvalue="Gradle.code [build]" />
+      <item itemvalue="JUnit.IronrodTests.solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IronrodTests.execute" />
+        <item itemvalue="JUnit.IronrodTests.solution" />
+        <item itemvalue="Gradle.code [build]" />
+        <item itemvalue="Gradle.code [clean]" />
         <item itemvalue="JUnit.PhoneNumberTests.execute" />
-        <item itemvalue="JUnit.PhoneNumberTests.solution" />
-        <item itemvalue="JUnit.MarathonTests.execute" />
-        <item itemvalue="JUnit.DiffStreamTests.execute" />
-        <item itemvalue="JUnit.CodeApplicationTests.testCodeA" />
       </list>
     </recent_temporary>
   </component>
@@ -770,50 +815,58 @@
       <workItem from="1537328615245" duration="4704000" />
       <workItem from="1537492880678" duration="29000" />
       <workItem from="1538451338413" duration="6502000" />
-      <workItem from="1538614843154" duration="13010000" />
+      <workItem from="1538614843154" duration="13505000" />
+      <workItem from="1538718091858" duration="1667000" />
+      <workItem from="1538730225137" duration="733000" />
+      <workItem from="1539134787059" duration="1266000" />
+      <workItem from="1539143016618" duration="702000" />
+      <workItem from="1539234012394" duration="1716000" />
+      <workItem from="1539306903781" duration="2116000" />
+      <workItem from="1539565525437" duration="2697000" />
+      <workItem from="1539674789584" duration="2562000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 15h 56m 10s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 16h 53m 55s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 15h 58m 39s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_solution - 2018.10.16 at 18h 48m 44s.xml">
+      <configuration name="IronrodTests.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_solution - 2018.10.04 at 16h 00m 33s.xml">
-      <configuration name="PhoneNumberTests.solution" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 18h 51m 00s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 00m 58s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 18h 51m 31s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 02m 09s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_solution - 2018.10.16 at 18h 51m 58s.xml">
+      <configuration name="IronrodTests.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 06m 07s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 18h 53m 16s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 08m 38s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 18h 54m 09s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 09m 24s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_solution - 2018.10.16 at 18h 54m 55s.xml">
+      <configuration name="IronrodTests.solution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 10m 29s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 18h 55m 08s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTests_execute - 2018.10.04 at 16h 12m 05s.xml">
-      <configuration name="PhoneNumberTests.execute" configurationId="JUnit" />
+    <history-entry file="IronrodTests_execute - 2018.10.16 at 18h 55m 45s.xml">
+      <configuration name="IronrodTests.execute" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24245000" />
+    <option name="totallyTimeSpent" value="38199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-367" width="2560" height="1417" extended-state="6" />
+    <frame x="-2560" y="-367" width="2179" height="1241" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.037331216" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16658868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -823,8 +876,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15018868" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3637946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -846,7 +899,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="UML design tool window" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.13661636" />
+      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.065512404" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info anchor="right" id="Bean Validation" order="12" />
@@ -858,31 +911,38 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="strArray[i];" language="JAVA" />
+        <watch expression="strArray[i];" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>strArray[i];</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/CodeApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/DiffStreamTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/CodeApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/DiffStreamTests.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/MarathonTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="51" />
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -891,8 +951,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/PhoneNumberTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.9.RELEASE/e1e6cff03e69e4db489d723c9a1c91afe8e0c637/spring-test-5.0.9.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.9.RELEASE/e1e6cff03e69e4db489d723c9a1c91afe8e0c637/spring-test-5.0.9.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.9.RELEASE/e1e6cff03e69e4db489d723c9a1c91afe8e0c637/spring-test-5.0.9.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.9.RELEASE/e1e6cff03e69e4db489d723c9a1c91afe8e0c637/spring-test-5.0.9.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.9.RELEASE/e1e6cff03e69e4db489d723c9a1c91afe8e0c637/spring-test-5.0.9.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunAfterTestExecutionCallbacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sunu/code/IronrodTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
